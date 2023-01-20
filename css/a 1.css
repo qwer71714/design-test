@@ -115,6 +115,7 @@
 .icon_background{margin-top: 150px;}
 .icon_background img{width: 100%; position: relative;}
 .icon_pos{display: flex; position: relative; left: 50%; transform: translate(-50%, -50%); width: 80%; z-index: 10; bottom: 260px;}
+.icon_pos img{border-radius: 100px;}
 .icon_pos>div{margin: 0 auto; text-align: center;}
 .icon_pos h1{font-size: 22px; font-weight: 600; text-align: left; margin-top: 25px; margin-bottom: 25px; color: rgb(0, 0, 0);}
 .icon_pos p{color: rgb(0, 0, 0); font-weight: 300; line-height: 180%; text-align: left; font-size: 16px;}
